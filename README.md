@@ -32,18 +32,15 @@ python app.py
 
 ---
 
-## Limitations
+## ⚠️ Limitations
 
-```bash
-The repo uses basic structure without any paid APIs and deployment and hence can take longer time to process
-
+The repo uses a basic structure without any paid APIs or optimized deployment, and hence may take **longer time** to process.
 
 ---
+
 ## 🌐 Live App
 
 🔗 Try out the live app here: [https://huggingface.co/spaces/Pragya123/ResearchAI](https://huggingface.co/spaces/Pragya123/ResearchAI)
 
-
----
 
 
