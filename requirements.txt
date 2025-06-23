@@ -1,0 +1,11 @@
+gradio
+PyPDF2
+semanticscholar
+gtts
+transformers
+torch
+sentence-transformers
+pydub
+ffmpeg-python
+bs4
+requests
