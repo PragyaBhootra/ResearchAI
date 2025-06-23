@@ -31,6 +31,7 @@ pip install -r requirements.txt
 python app.py
 
 
+---
 ## ⚠️ Limitations
 
 The repo uses a basic structure without any paid APIs or optimized deployment, and hence may take **longer time** to process.
