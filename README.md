@@ -21,13 +21,13 @@
 
 ---
 
-
 ## 📂 Installation and Setup
 
--git clone https://github.com/PragyaBhootra/ResearchAI.git
--cd ResearchAI
--pip install -r requirements.txt
--python app.py
+```bash
+git clone https://github.com/PragyaBhootra/ResearchAI.git
+cd ResearchAI
+pip install -r requirements.txt
+python app.py
 
 
 ---
