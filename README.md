@@ -21,18 +21,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-| Component         | Library/Tool                                                                 |
-|------------------|-------------------------------------------------------------------------------|
-| **Frontend**      | [Gradio](https://www.gradio.app/)                                            |
-| **LLM**           | [`facebook/bart-large-cnn`](https://huggingface.co/facebook/bart-large-cnn) |
-| **Topic Modeling**| [`sentence-transformers/all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
-| **TTS Audio**     | `gTTS`, `pydub`, `ffmpeg`                                                    |
-| **PDF Parsing**   | `PyPDF2`                                                                     |
-| **Research API**  | [Semantic Scholar](https://api.semanticscholar.org/), [CrossRef](https://api.crossref.org/) |
-
----
 
 ## 📂 Installation and Setup
 
@@ -42,6 +30,20 @@ cd ResearchAI
 pip install -r requirements.txt
 python app.py
 
+---
 
+## Limitations
+
+```bash
+The repo uses basic structure without any paid APIs and deployment and hence can take longer time to process
+
+
+---
+## 🌐 Live App
+
+🔗 Try out the live app here: [https://huggingface.co/spaces/Pragya123/ResearchAI](https://huggingface.co/spaces/Pragya123/ResearchAI)
+
+
+---
 
 
