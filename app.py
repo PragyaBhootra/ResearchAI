@@ -330,4 +330,4 @@ with gr.Blocks(title="Research Paper Podcast Generator") as app:
     )
 
 
-app.launch(server_name="0.0.0.0", server_port=8080)
+app.launch()
